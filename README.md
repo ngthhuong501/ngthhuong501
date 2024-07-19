@@ -7,11 +7,15 @@
 
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/0huongwr/](https://www.facebook.com/0huongwr/)
 
+- 📝 I regularly write articles on [https://www.instagram.com/0huongwr_?igsh=cXUzcHA4NDIwMDd2](https://www.instagram.com/0huongwr_?igsh=cXUzcHA4NDIwMDd2)
+
 - 📫 How to reach me **ngthehuong501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/https://www.facebook.com/0huongwr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/0huongwr/" height="30" width="40" /></a>
 <a href="https://instagram.com/0huongwr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0huongwr_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0n5mesb680p6ozh4tc55yg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0n5mesb680p6ozh4tc55yg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
