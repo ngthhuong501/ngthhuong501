@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenthehuong&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenthehuong" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.facebook.com/0huongwr/](https://www.facebook.com/0huongwr/)
-
-- 📝 I regularly write articles on [https://www.instagram.com/0huongwr_?igsh=cXUzcHA4NDIwMDd2](https://www.instagram.com/0huongwr_?igsh=cXUzcHA4NDIwMDd2)
-
 - 📫 How to reach me **ngthehuong501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
